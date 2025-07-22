@@ -1,0 +1,13 @@
+Backtest Summary for AAPL
+Generated on: 2025-07-22 19:33:45
+
+Initial Capital: $10,000.00
+Final Value: $12,235.17
+Total Return: 22.35%
+Buy & Hold Return: 6.99%
+Excess Return: 15.36%
+Volatility: 11.69%
+Sharpe Ratio: 1.912
+Max Drawdown: -14.93%
+Total Trades: 1
+Win Rate: 0.0%
